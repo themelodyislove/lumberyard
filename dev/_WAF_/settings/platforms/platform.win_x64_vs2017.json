@@ -54,7 +54,7 @@
             {
                 "long_form"         : "--win-vs2017-vswhere-args",
                 "attribute"         : "win_vs2017_vswhere_args",
-                "default_value"     : "-version [15.9.28307.770,16.0)",
+                "default_value"     : "-version [15.9.28307.770,16.0]",
                 "description"       : "The arguments to pass to vswhere when locating vs2017 executables. The default maximum is all future versions of VS2017 (beyond the minimum). The default minimum is the last known ABI incompatiblity for Lumberyard builds."
             },
             {
